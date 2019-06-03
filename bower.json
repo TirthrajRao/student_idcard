@@ -1,0 +1,17 @@
+{
+  "name": "T.N.RAO",
+  "authors": [
+    "KuldipKoradia <kuldipgkoradia@gmail.com>"
+  ],
+  "description": "id card generation software",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
